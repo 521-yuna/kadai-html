@@ -19,3 +19,8 @@ footer {
     width: 1000px;
     background-color: #ffccff;
 }
+
+#wrapper {
+    width: 1000px;
+    display: flex;
+}
